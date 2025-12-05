@@ -1,16 +1,15 @@
-# Estudos JavaScript
+# Estudos Python
 
-Este repositório contém meus estudos de JavaScript, desde exercícios básicos até tópicos avançados, incluindo mini-projetos.
+Este repositório contém meus estudos de Python, com foco em lógica de programação e manipulação de dados usando bibliotecas como Pandas.
 
 ## Estrutura
 
-- **Lógicas Básicas**  
-  Exercícios para praticar conceitos fundamentais de JavaScript, como operadores, loops, condicionais e funções simples.
+- **Lógica Básica**  
+  Exercícios de lógica de programação em Python, incluindo loops, condicionais, funções e listas.
 
-- **High Order Functions**  
-  Exercícios e projetos utilizando funções de alta ordem (map, filter, reduce, forEach, etc).  
-  Inclui um mini-projeto desenvolvido para aplicar os conceitos aprendidos.
+- **Pandas**  
+  Exercícios e práticas com a biblioteca Pandas para manipulação de dados, como DataFrames, filtragem e análise básica.
 
 ## Objetivo
 
-O objetivo deste repositório é registrar meu progresso no aprendizado de JavaScript e servir como portfólio de estudos.
+Registrar meu progresso no aprendizado de Python e construir uma base sólida para projetos futuros de ciência de dados e automação.
