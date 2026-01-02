@@ -9,6 +9,9 @@ Este repositório contém meus estudos de Python, com foco em lógica de program
 
 - **Pandas**  
   Exercícios e práticas com a biblioteca Pandas para manipulação de dados, como DataFrames, filtragem e análise básica.
+  
+- Projetos
+  Projetos de nível médio a intermediário visando aprofundamento de conhecimentos em web, mas principalmente, em lógicas em JS.
 
 ## Objetivo
 
