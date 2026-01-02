@@ -15,4 +15,4 @@ O projeto permite que dois jogadores joguem alternadamente, com verificação de
 
 ▶️ Prévia
 <img width="995" height="600" alt="image" src="https://github.com/user-attachments/assets/4576fca7-0e9c-4654-8fbc-8fd2779af050" />
-
+## Projeto desenvolvido por Milene Araujo 💻
